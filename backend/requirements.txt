@@ -2,8 +2,10 @@ fastapi
 uvicorn
 python-multipart
 pdfplumber
-sentence-transformers
 scikit-learn
 numpy
 mysql-connector-python
 bcrypt
+sentence-transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.0+cpu
