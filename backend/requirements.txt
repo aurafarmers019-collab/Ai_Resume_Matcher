@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+sentence-transformers
+scikit-learn
+numpy
+mysql-connector-python
+bcrypt
