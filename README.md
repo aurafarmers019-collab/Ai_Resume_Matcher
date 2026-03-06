@@ -386,21 +386,13 @@ matched skills, missing skills, evidence snippets
 
 ## Screenshots
 
-> _Add screenshots of the candidate dashboard, HR leaderboard, match score results, and the auth flow here._
-
-| Candidate Dashboard |
+| Candidate Dashboard | HR Dashboard |
 |---|---|
-|<img width="1816" height="924" alt="image" src="https://github.com/user-attachments/assets/9265eabf-78f6-4a7e-b9f1-d50556cf7cfa" />
-| HR Dashboard |
- |<img width="1836" height="870" alt="image" src="https://github.com/user-attachments/assets/aa5e780e-463b-468c-9b63-5831ce24c68a" />
- |
+| ![Candidate Dashboard](https://github.com/user-attachments/assets/9265eabf-78f6-4a7e-b9f1-d50556cf7cfa) | ![HR Dashboard](https://github.com/user-attachments/assets/aa5e780e-463b-468c-9b63-5831ce24c68a) |
 
-| Match Score Results |
+| Match Score Results | Job Listings |
 |---|---|
-|<img width="1803" height="918" alt="image" src="https://github.com/user-attachments/assets/85cc82a4-c45c-4a94-9903-6f8702774c68" />
-| Job Listings |
-|<img width="1814" height="934" alt="image" src="https://github.com/user-attachments/assets/f865ca39-d1fc-4cea-a65a-307584ac8973" />
-|
+| ![Match Score Results](https://github.com/user-attachments/assets/85cc82a4-c45c-4a94-9903-6f8702774c68) | ![Job Listings](https://github.com/user-attachments/assets/f865ca39-d1fc-4cea-a65a-307584ac8973) |
 
 ---
 
@@ -408,13 +400,13 @@ matched skills, missing skills, evidence snippets
 
 | Name | Role |
 |---|---|
-| [ALAGIRI K | Full Stack Development |
-| [AMAL C SIMON] | AI / NLP Integration |
-| [GNANASANKAR M] | UI/UX & Frontend |
-| [CHANTHRIHA J] | Backend & Database |
+| ALAGIRI K | Full Stack Development |
+| AMAL C SIMON | AI / NLP Integration |
+| GNANASANKAR M | UI/UX & Frontend |
+| CHANTHRIHA J | Backend & Database |
 
 **Hackathon:** Kreative Genesis 2026
-**Domain:** AI & AUTOMATION
+**Domain:** AI & Automation
 
 ---
 
