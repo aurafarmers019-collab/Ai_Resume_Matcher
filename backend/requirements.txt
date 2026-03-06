@@ -3,9 +3,9 @@ uvicorn
 python-multipart
 pdfplumber
 scikit-learn
-numpy
+numpy<2
 mysql-connector-python
 bcrypt
-sentence-transformers
+sentence-transformers==2.7.0
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.0+cpu
+torch==2.4.0+cpu
