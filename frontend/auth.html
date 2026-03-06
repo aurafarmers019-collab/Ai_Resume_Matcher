@@ -70,13 +70,17 @@ body::after{
 .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .field{margin-bottom:14px}
 label{display:block;font-size:11px;color:var(--muted2);margin-bottom:5px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;}
-input,select{
+input:not([type=checkbox]),select{
   width:100%;background:var(--surface);border:1px solid var(--border2);border-radius:10px;
   padding:10px 14px;color:var(--text);font-size:14px;font-family:'DM Sans',sans-serif;
   outline:none;transition:.2s;-webkit-appearance:none;
 }
-input:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(124,111,255,.12);}
-input::placeholder{color:var(--muted)}
+input[type=checkbox]{
+  -webkit-appearance:checkbox;appearance:checkbox;
+  width:16px;height:16px;cursor:pointer;flex-shrink:0;
+}
+input:not([type=checkbox]):focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(124,111,255,.12);}
+input:not([type=checkbox])::placeholder{color:var(--muted)}
 select option{background:var(--card2)}
 .pw-wrap{position:relative}
 .pw-wrap input{padding-right:42px}
